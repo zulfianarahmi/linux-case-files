@@ -1,11 +1,11 @@
-# 🐧 linux-case-files
+# linux-case-files
 
 A collection of Linux study cases, notes, and experiments.  
 This repo documents practical deep-dives, debugging sessions, and learning journeys across various parts of the Linux ecosystem.
 
 ---
 
-## 📚 Contents
+## Contents
 
 Each case is stored in its own folder with relevant notes, configs, and resources.
 
@@ -19,7 +19,7 @@ This project provides a simple shell script and cron configuration to **automati
 
 ---
 
-## 🛠️ Tech Stack / Tools Used
+## 🛠 Tech Stack / Tools Used
 
 - Bash / Shell
 - Vim / Nano
@@ -29,13 +29,13 @@ This project provides a simple shell script and cron configuration to **automati
 
 ---
 
-## ✍️ Author
+## Author
 
 Maintained by Zulfiana Rahmi
 This repo is part of an ongoing learning journey — feedback, pull requests, and discussions are welcome!
 
 ---
 
-## 📄 License
+##  License
 
 MIT License — feel free to use, modify, and share.
